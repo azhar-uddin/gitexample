@@ -1,7 +1,7 @@
 class A
 
   def m1
-    puts "hello world"
+    puts "hello world2"
   end
 
 end
